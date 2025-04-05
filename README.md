@@ -74,6 +74,28 @@ The script will:
 *   Query the Google Places API for each business.
 *   Generate an `output.csv` file in the same directory containing the results.
 
+### CSV Merger Utility
+
+The project also includes a utility for merging CSV files:
+
+```bash
+python merger.py file1.csv file2.csv output.csv [--merge-type TYPE]
+```
+
+Parameters:
+- `file1.csv`: Path to the first CSV file
+- `file2.csv`: Path to the second CSV file
+- `output.csv`: Path for the output merged CSV file
+- `--merge-type`: Optional. Type of merge to perform (default: inner)
+  - Options: inner, left, right, outer
+
+Example:
+```bash
+python merger.py customers.csv orders.csv customer_orders.csv --merge-type left
+```
+
+This will merge the two CSV files based on an 'id' column using the specified merge type.
+
 ## Output File (`output.csv`)
 
 The output file will contain the following columns:
