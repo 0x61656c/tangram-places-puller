@@ -1,0 +1,325 @@
+ID,User,Created At,Role                                                                Roles are the types of users who can sign up for your platform. A user's role affects how they interact with your platform.,Status                                                                'Banned' - user was deactivated or rejected from the approval process. These users have limited access to your platform. 'Approved' - user is in good standing and has full access to the platform (subject to the constraints of their role),,Business Name
+test-shopper-c_go4oc2dq,Test Shopperwkejbvwkhvh@tangram.co,2025-04-29 5:50pm PDT,Shopper,approved,wkejbvwkhvh@tangram.co,Test Shopper
+quinn-parker-75u2bolvwg,Quinn Parkerquinnparker@tangram.co,2025-02-20 6:02am PST,Shopper,approved,quinnparker+farmersmarketsocalbfeb20c0@tangram.co,Quinn Parker
+has-apple-farm,Ha's Apple Farmaverythompson@tangram.co,2025-02-20 6:02am PST,Seller,approved,averythompson+farmersmarketsocal549667d1@tangram.co,Ha's Apple Farm
+rowan-sinclair-z_bca3pwfa,Rowan Sinclairrowansinclair@tangram.co,2025-02-20 6:02am PST,Seller,approved,rowansinclair+farmersmarketsocal0a68eaf9@tangram.co,Rowan Sinclair
+skylar-morgan-jxxcnxmocg,Skylarks Farmskylarmorgan@tangram.co,2025-02-20 6:02am PST,Seller,approved,skylarmorgan+farmersmarketsocalbdb8521a@tangram.co,Skylarks Farm
+paris-mielke-rech2j86hw,Paris Mielkeparis@tangram.co,2025-02-2012:27pm PST,Seller,approved,paris+testsellerfarmer@tangram.co,Paris Mielke
+aaron-lebel-z6rjcni5fg,aaron lebelaaron@tangram.co,2025-02-20 1:12pm PST,Seller,approved,aaron+farmersmarketsocal@tangram.co,aaron lebel
+179fcc77cf31eb9d,Altadena Neighborhood Farm...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+swjpvcnc@farmersmarketsocal.com,Altadena Neighborhood Farmers Market
+f6259240c8590839,Antelope Valley Winerymike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+mcvahafk@farmersmarketsocal.com,Antelope Valley Winery
+e709c7eaa0a5e6e8,Bell Family Fair & Farmers...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+ugalxzna@farmersmarketsocal.com,Bell Family Fair & Farmers Market
+e66f5288ae77de08,Atwater Village Farmer's M...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+ovghearh@farmersmarketsocal.com,Atwater Village Farmer's Market
+88b326d1e1b8d5d9,Bellflower Farmers Market...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+bjufitur@farmersmarketsocal.com,Bellflower Farmers Market
+ea0c6ec60af432f7,Bellgardens Farmers Market...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+abawplhy@farmersmarketsocal.com,Bellgardens Farmers Market
+03d3d60a6915a6a8,Beverly Hills Farmers Mark...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+bwtvtkul@farmersmarketsocal.com,Beverly Hills Farmers Market
+70cc4d9855cc244e,Bixby Park Farmers Market...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+lwonfkhh@farmersmarketsocal.com,Bixby Park Farmers Market
+ed366c379838494d,Bouquet Canyon CFMmike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+gkhqhrqz@farmersmarketsocal.com,Bouquet Canyon CFM
+dfeda51d673aa512,Brentwood Farmers Marketmike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+aoyfcsxj@farmersmarketsocal.com,Brentwood Farmers Market
+f4cb6c4a1ede6511,Bunker Hill Famers Market ...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+cxfmpzba@farmersmarketsocal.com,Bunker Hill Famers Market @ Bank of America Plaza
+6310cd31c0a66cca,Burbank Certified Farmers ...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+rwvwahuq@farmersmarketsocal.com,Burbank Certified Farmers Market
+8b3c25ec3044030f,Cal Arts Farmers Marketmike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+alhejpob@farmersmarketsocal.com,Cal Arts Farmers Market
+05afda36efaebfe4,Cal State Long Beach Certi...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+wxjbjziv@farmersmarketsocal.com,Cal State Long Beach Certified Farmers Market
+19d544ecffb5f0d0,Cal State LA Farmers Marke...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+yepwvkfp@farmersmarketsocal.com,Cal State LA Farmers Market
+32a91c2a0dd3ae25,Calabasas Certified Farmer...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+ypghvrsd@farmersmarketsocal.com,Calabasas Certified Farmers Market
+0ceb5ffad04d607b,Canyon Country Farmers Mar...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+xwoftjyc@farmersmarketsocal.com,Canyon Country Farmers Market
+92fb3a78ab52e63c,Carson FM presented by Kai...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+yiccjeum@farmersmarketsocal.com,Carson FM presented by Kaiser Permanente
+554f7fd0b747a380,Central Avenue Farmer's Ma...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+rcytczkr@farmersmarketsocal.com,Central Avenue Farmer's Market
+787b4976355f684a,Century City Certified Far...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+jiadzkbu@farmersmarketsocal.com,Century City Certified Farmers Market
+cf1aaa9d043b49e0,Cerritos CFMmike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+tqsefmgb@farmersmarketsocal.com,Cerritos CFM
+2bfe6cbd76462e19,City of Hope Farmers Marke...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+obcgvvip@farmersmarketsocal.com,City of Hope Farmers Market
+5d4e238af8502822,City of San Gabriel CFMmike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+fopreenw@farmersmarketsocal.com,City of San Gabriel CFM
+95197158125108be,Claremont Farmers & Artisa...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+neoaxstu@farmersmarketsocal.com,Claremont Farmers & Artisan's Market
+acc46998176501fd,Compton College Farmer's M...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+rgsqhebj@farmersmarketsocal.com,Compton College Farmer's Market
+40fece5b39122a11,Covina Certified Farmers M...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+cntiapkb@farmersmarketsocal.com,Covina Certified Farmers Market
+d60a4f8da6302255,Crenshaw Farmer's Marketmike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+rxwhvcqm@farmersmarketsocal.com,Crenshaw Farmer's Market
+fdb90213f99b6bc8,Crenshaw Hills Farmer Mark...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+eyprnhjg@farmersmarketsocal.com,Crenshaw Hills Farmer Market
+f79cb4d997062ba3,CSUN Farmers Marketmike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+yftintac@farmersmarketsocal.com,CSUN Farmers Market
+d64e02b4f6b9ea31,Culver City Farmers Market...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+mmuolyvc@farmersmarketsocal.com,Culver City Farmers Market
+56fad7aeebee9263,Dominguez Hills Farmers Ma...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+rmfyakfr@farmersmarketsocal.com,Dominguez Hills Farmers Market
+41893d0c760ce00f,Downey CFMmike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+fjzcnzmk@farmersmarketsocal.com,Downey CFM
+96cef74e4fd6b1c7,Downtown Long Beach CFMmike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+kfjxhnlp@farmersmarketsocal.com,Downtown Long Beach CFM
+f061ce21db60a840,Downtown Pomona Farmer's M...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+fywtoxum@farmersmarketsocal.com,Downtown Pomona Farmer's Market
+101e9d93d23a535c,Duarte Chamber of Commerce...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+mhdnbdnq@farmersmarketsocal.com,Duarte Chamber of Commerce Farmers' Market
+d7c5f76b1de1c691,East Hollywood Certified F...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+yrxpfjqj@farmersmarketsocal.com,East Hollywood Certified Farmers' Market
+0d6ff54caf95bab6,East Hollywood Certified F...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+yowbwwwi@farmersmarketsocal.com,East Hollywood Certified Farmers' Market
+46bef2b7d8b90067,East Los Angeles Farmers M...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+wznnglkf@farmersmarketsocal.com,East Los Angeles Farmers Market
+dd41c6b72cfab0f9,El Monte Farmers Market on...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+gjplrltb@farmersmarketsocal.com,El Monte Farmers Market on Main Street
+4b523f3e2b7aacd1,Echo Park Farmer's Market...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+wxvaeupg@farmersmarketsocal.com,Echo Park Farmer's Market
+7fc9773fe2f63bea,El Nido Farmer's Marketmike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+wzcoqhnp@farmersmarketsocal.com,El Nido Farmer's Market
+fdde2f42595b4c62,El Segundo Farmers Market...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+hfvyqwss@farmersmarketsocal.com,El Segundo Farmers Market
+b25cfafb1ced75c5,Farm Habit CFM at Cedars S...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+fscsghbm@farmersmarketsocal.com,Farm Habit CFM at Cedars Sinai
+77edc4b8337c6502,Encino Farmers Marketmike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+tsmrkxjo@farmersmarketsocal.com,Encino Farmers Market
+8b4b8afd48287f45,Farmers Market at Mt. SAC...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+fbnxqqwi@farmersmarketsocal.com,Farmers Market at Mt. SAC
+6e321fd6169cd802,Farmers Marketplace of Lak...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+rastmosv@farmersmarketsocal.com,Farmers Marketplace of Lakewood
+0fd9bbe40ef91e1c,Farmers Marketplace of Lon...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+crlzoyue@farmersmarketsocal.com,Farmers Marketplace of Long Beach
+34b39bf88a80493a,Fig @ 7th Certified Farmer...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+pavmiiox@farmersmarketsocal.com,Fig @ 7th Certified Farmers Market
+33abbcc665679a32,Gardena FM presented by Ka...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+abfoiuhd@farmersmarketsocal.com,Gardena FM presented by Kaiser Permanente
+0619e9243d55088b,Glendale Gateway CFMmike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+hudwoygq@farmersmarketsocal.com,Glendale Gateway CFM
+c13b06d651a9f0b0,Granada Hills Chamber of C...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+jhzhctdf@farmersmarketsocal.com,Granada Hills Chamber of Commerce Farmers Market
+709c7fd1893f98e4,Harbor City Presented by K...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+zrguftoh@farmersmarketsocal.com,Harbor City Presented by Kaiser Permanente
+4c14299593dcf158,Harbor UCLA Medical Center...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+fuwwivkd@farmersmarketsocal.com,Harbor UCLA Medical Center
+8386eac1337a5d69,Helen Albert Farmers' Mark...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+qiaxbqev@farmersmarketsocal.com,Helen Albert Farmers' Market
+99734fd7599747ac,Heritage @ The Arts Distri...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+vkagfzvr@farmersmarketsocal.com,Heritage @ The Arts District CFM
+311c324f5d0ad984,Hello Farmers LLCmike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+kwjzfryu@farmersmarketsocal.com,Hello Farmers LLC
+b6a39472ebba568c,Hermosa Beach Certified Fa...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+ygfmploy@farmersmarketsocal.com,Hermosa Beach Certified Farmers Market
+f681e665707cc58e,Hidden Hills Farmers Marke...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+qsavwrtq@farmersmarketsocal.com,Hidden Hills Farmers Market
+667300475a16a83d,Hollywood Farmer's Market...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+usrtabmz@farmersmarketsocal.com,Hollywood Farmer's Market
+e000b4c6456b84cd,Historic Downtown LA Farme...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+jdnmlmks@farmersmarketsocal.com,Historic Downtown LA Farmers' Market
+4ac5299e064dfea8,Huntington Park CFMmike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+xqdnnsaw@farmersmarketsocal.com,Huntington Park CFM
+6db778e24e847954,Hollywood Park Farmers' Ma...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+ajuygbit@farmersmarketsocal.com,Hollywood Park Farmers' Market
+b17c0f2e91eb33f1,Kaiser Permanente Baldwin ...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+fqyeufkq@farmersmarketsocal.com,Kaiser Permanente Baldwin Park Farmers' Market
+1461f6b503975637,Kaiser Permanente Downey F...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+raytzgmt@farmersmarketsocal.com,Kaiser Permanente Downey Farmers' Market
+d2a44b7e2afaab46,Kaiser Permanente Panorama...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+lorlatmc@farmersmarketsocal.com,Kaiser Permanente Panorama City Farmers' Market
+23f6397f45aaf208,Kaiser Permanente Woodland...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+vrlbxavs@farmersmarketsocal.com,Kaiser Permanente Woodland Hills Farmers' Market
+3fa070c6474ec150,La Canada Farmers Marketmike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+lhryhckq@farmersmarketsocal.com,La Canada Farmers Market
+11a2233bdc78bc25,La Cienega Farmers Market ...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+dgurgoyx@farmersmarketsocal.com,La Cienega Farmers Market @ Kaiser WLA
+77602b66596ceb87,La Puente Livemike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+rzgoywko@farmersmarketsocal.com,La Puente Live
+1abe6c5309671518,La Mirada Farmers Marketmike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+hkrrogfj@farmersmarketsocal.com,La Mirada Farmers Market
+712107d133e5d593,LA River Farmers' Market (...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+argnauzn@farmersmarketsocal.com,LA River Farmers' Market (LARFM)
+2e4cfe4c6f6dd1be,LAC+USC Medical Center CFM...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+fpsgmnrr@farmersmarketsocal.com,LAC+USC Medical Center CFM
+9c1f546ba1e07fde,Lake LA Farmers Marketmike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+iyajropw@farmersmarketsocal.com,Lake LA Farmers Market
+f109468cf370ae41,Lancaster CFMmike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+gmegrqot@farmersmarketsocal.com,Lancaster CFM
+7a3f0a4f87bef11b,Larchmont Sunday CFMmike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+gqibqvfm@farmersmarketsocal.com,Larchmont Sunday CFM
+51edd63284998d1d,Lincoln Heights CFMmike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+vtmroeug@farmersmarketsocal.com,Lincoln Heights CFM
+dba4d519d6099680,Larchmont Wednesday CFMmike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+oreifdhf@farmersmarketsocal.com,Larchmont Wednesday CFM
+d544fc9c079644f2,LMU Farmers Marketmike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+qdqtqvcc@farmersmarketsocal.com,LMU Farmers Market
+b38d7976826efd1c,Lomita Farmers Marketmike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+badduhsn@farmersmarketsocal.com,Lomita Farmers Market
+473d2edb0d03d580,Los Angeles City Hall Cert...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+ahlhadxf@farmersmarketsocal.com,Los Angeles City Hall Certified Farmers' Market
+2111b3f212384dbc,Main Street Canoga Park Fa...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+ewhojqcr@farmersmarketsocal.com,Main Street Canoga Park Farmers' Market
+1f49672eee4a2fb8,Malibu Farmers Marketmike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+jiafkjtq@farmersmarketsocal.com,Malibu Farmers Market
+5b6088b749c807c6,Mar Vista Farmers Marketmike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+atbpaqby@farmersmarketsocal.com,Mar Vista Farmers Market
+97c6f8534c5c4ef2,Manhattan Beach Farmers' M...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+whkjgyib@farmersmarketsocal.com,Manhattan Beach Farmers' Market
+645988fcba705009,Marina del Rey Farmers' Ma...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+aodzyovy@farmersmarketsocal.com,Marina del Rey Farmers' Market
+b88a79b47b07fbc1,Marine Stadium Farmers Mar...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+anqcraws@farmersmarketsocal.com,Marine Stadium Farmers Market
+388c5b7d4286f1ea,Melrose Place CFMmike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+xxoktvbl@farmersmarketsocal.com,Melrose Place CFM
+127746adf7900343,Miracle Mile Certified Far...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+kxnecghr@farmersmarketsocal.com,Miracle Mile Certified Farmers Market
+ad7ca463e84604f7,Monrovia Farmers Market @ ...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+kgwqocbt@farmersmarketsocal.com,Monrovia Farmers Market @ Station Square Park
+529b23a0a03022de,Monrovia Street Faire and ...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+yhafmdmd@farmersmarketsocal.com,Monrovia Street Faire and Certified Farmers Market
+6ff9cab6afa1da18,Montebello Farmers Market...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+jysacyzi@farmersmarketsocal.com,Montebello Farmers Market
+49c8380c682a79e0,Monterey Park Certified Fa...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+agspgegq@farmersmarketsocal.com,Monterey Park Certified Farmers Market
+6261102e5df6e9d7,Montrose Harvest Marketmike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+afexzaic@farmersmarketsocal.com,Montrose Harvest Market
+dd260b4527e6368c,Morning Side Park Farmers ...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+hczzpxpu@farmersmarketsocal.com,Morning Side Park Farmers Market
+8a80ea66039f3f46,Motor Avenue Farmer Market...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+rnsylnmx@farmersmarketsocal.com,Motor Avenue Farmer Market
+726710f961b4ca2f,Norwalk Farmers Marketmike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+qxfoelye@farmersmarketsocal.com,Norwalk Farmers Market
+45ad203dbe0968de,Northridge Farmers Market ...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+nrkbnnvc@farmersmarketsocal.com,Northridge Farmers Market & Family Festival
+25060bd081b89c45,North Hollywood Farmers Ma...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+qjxqbwjc@farmersmarketsocal.com,North Hollywood Farmers Market
+c631d55893ab9020,Old L.A. CFMmike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+bkoydify@farmersmarketsocal.com,Old L.A. CFM
+0e21bf6ffef1744c,Old Town Newhall Farmers M...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+vwnmupih@farmersmarketsocal.com,Old Town Newhall Farmers Market
+27da6720384a22b8,Olive View UCLA Medical Ce...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+oavilvou@farmersmarketsocal.com,Olive View UCLA Medical Center
+57c5156888bff719,Pacific Coast Farmers Mark...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+uujouwtw@farmersmarketsocal.com,Pacific Coast Farmers Market
+3dd628b70b373538,Pacific Palisades Certifie...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+vnlxnisr@farmersmarketsocal.com,Pacific Palisades Certified Farmers Market
+1100dfa065e319fe,Palmdale Farmers Marketmike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+auogsdxw@farmersmarketsocal.com,Palmdale Farmers Market
+d044056a76a8f018,Palos Verdes Farmers Marke...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+ywbcxtpo@farmersmarketsocal.com,Palos Verdes Farmers Market
+b43d59f1775862d9,Paramount Farmers Marketmike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+zfirhugh@farmersmarketsocal.com,Paramount Farmers Market
+2fa69fbdabda1214,Paramount Night Farmers Ma...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+plzdwxms@farmersmarketsocal.com,Paramount Night Farmers Market
+ad658856dddc5ef2,Pasadena Victory Park Farm...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+uhglplnf@farmersmarketsocal.com,Pasadena Victory Park Farmers' Market
+0fb2a6d8def2cc8e,Pasadena Villa Parke Farme...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+yjyrdnvw@farmersmarketsocal.com,Pasadena Villa Parke Farmers Market
+c05f29c09e6e095f,Pico Rivera Certified Farm...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+modlwppi@farmersmarketsocal.com,Pico Rivera Certified Farmers Market
+4da3f1c6d1ed2c08,Playa Vista Farmers' Marke...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+tznpmvvj@farmersmarketsocal.com,Playa Vista Farmers' Market
+a9511f79b2668f86,Pomona Valley Certified Fa...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+eczhizbg@farmersmarketsocal.com,Pomona Valley Certified Farmers Market
+f70104986c5236e5,Pomona Valley Hospital Med...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+utyuxlkb@farmersmarketsocal.com,Pomona Valley Hospital Medical Center
+8acc0f972d1ceba6,Porter Ranch Farmers Marke...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+lfljaggm@farmersmarketsocal.com,Porter Ranch Farmers Market
+b29ac64822be139c,Rancho Los Amigosmike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+behebcra@farmersmarketsocal.com,Rancho Los Amigos
+fd7e91de39adecb9,Redondo Beach CFMmike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+qihyajga@farmersmarketsocal.com,Redondo Beach CFM
+be01e23c7efe5f04,Riviera Village CFMmike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+pfvtsesh@farmersmarketsocal.com,Riviera Village CFM
+70302cbe29639e9c,Rosemead Certified Farmers...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+oxmzdvge@farmersmarketsocal.com,Rosemead Certified Farmers Market
+027fcc1937c763ba,San Dimas CFMmike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+moowroyj@farmersmarketsocal.com,San Dimas CFM
+d2f6bb04412ab707,San Pedro CFMmike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+swcpgupy@farmersmarketsocal.com,San Pedro CFM
+104572447ce2e110,Santa Clarita Certified Fa...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+apippovo@farmersmarketsocal.com,Santa Clarita Certified Farmers' Market
+26dd58323322cee5,Santa Monica Farmers Marke...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+rhoirdbx@farmersmarketsocal.com,Santa Monica Farmers Market - Saturday Downtown
+794d25eb208a1c03,Santa Monica Farmers Marke...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+hdecmhau@farmersmarketsocal.com,Santa Monica Farmers Market - Saturday Pico
+3da3f5ad7026cf1c,Santa Monica Farmers Marke...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+ozxxlhov@farmersmarketsocal.com,Santa Monica Farmers Market - Sunday Main St.
+f11f501c3057a59b,Santa Monica Farmers Marke...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+yxoltckm@farmersmarketsocal.com,Santa Monica Farmers Market - Wednesday Downtown
+cb144b49469d46c1,Sherman Oaks Farmers Marke...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+vzbhnfss@farmersmarketsocal.com,Sherman Oaks Farmers Market
+61db6aff43372198,Silver Lake Cerified Farme...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+vyqmtdoq@farmersmarketsocal.com,Silver Lake Cerified Farmers' Market
+4d70622ae40932b7,South Bay Pavilion Farmer ...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+vybtgktj@farmersmarketsocal.com,South Bay Pavilion Farmer Market
+6497fced6589f8a8,Silver Lake Certified Farm...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+davlzsbe@farmersmarketsocal.com,Silver Lake Certified Farmers' Market
+1592871321501a5e,Silver Lake Certified Farm...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+hmrszfuv@farmersmarketsocal.com,Silver Lake Certified Farmers' Market
+5fbd7b336e6b6b09,South Gate CFMmike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+famcvsej@farmersmarketsocal.com,South Gate CFM
+fd6a0ac6109bd7d2,South Park Farmers' Market...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+mpzgzxhs@farmersmarketsocal.com,South Park Farmers' Market
+9557b7ad34109d3e,South Pasadena Certified F...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+jcslnxbl@farmersmarketsocal.com,South Pasadena Certified Farmers' Market
+ea43c629a59c1ebf,Southeast Long Beach / Mar...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+vnzdhqod@farmersmarketsocal.com,Southeast Long Beach / Marina CFM
+17d9350a4492aad6,Studio City Farmers Market...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+xytxgdzo@farmersmarketsocal.com,Studio City Farmers Market
+ed8fa0ec90661569,The Heart of the Canyons F...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+cnctgetd@farmersmarketsocal.com,The Heart of the Canyons Farmers Market
+653379f6e6989b2e,The 323 Farmers Marketmike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+ilyrhjxo@farmersmarketsocal.com,The 323 Farmers Market
+b297b0eb24c94f09,Surf Canyon Farmers Market...mike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+vgwdjyuq@farmersmarketsocal.com,Surf Canyon Farmers Market
+e512bd5c87089302,Temple City CFMmike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+qekdiymp@farmersmarketsocal.com,Temple City CFM
+68db2707d1fd2515,Topanga Farmers Marketmike@farmersmarketsocal.co...,2025-05-2011:28am PDT,Farmers Market,approved,mike+hpjaeyok@farmersmarketsocal.com,Topanga Farmers Market
+3834676a8061e1f0,Torrance Certified Farmers...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+vzawqvxq@farmersmarketsocal.com,Torrance Certified Farmers' Market -Tuesday
+3e3fc54995184ad7,Uptown Bixby Knolls CFMmike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+fsxdnhuo@farmersmarketsocal.com,Uptown Bixby Knolls CFM
+c4f2b9accf42cc43,Uptown Whittier Farmers Ma...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+vixikyai@farmersmarketsocal.com,Uptown Whittier Farmers Market
+bf601fdaffda0cc7,USC Hospitality Farmers Ma...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+rrwnvlhx@farmersmarketsocal.com,USC Hospitality Farmers Market
+de68d6cf0a866376,Valencia Farmers Marketmike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+ycfmohxu@farmersmarketsocal.com,Valencia Farmers Market
+5ecf150206f6283c,Venice Farmers' Marketmike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+plfuecka@farmersmarketsocal.com,Venice Farmers' Market
+0beae05960f66c0e,Virgil Village Farmers Mar...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+rlariglk@farmersmarketsocal.com,Virgil Village Farmers Market
+1627ec9e0551f926,Warner Center Farmers Mark...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+lcwodhhs@farmersmarketsocal.com,Warner Center Farmers Market
+d261e78fc144ae8a,Watts Willowbrook Farmers'...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+wsxxvfvn@farmersmarketsocal.com,Watts Willowbrook Farmers' Market
+bd7c77201db75f5f,Wellington Square CFMmike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+phbxwkhs@farmersmarketsocal.com,Wellington Square CFM
+9c554f76f81a6d46,West Covina Certified Farm...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+mkqoopny@farmersmarketsocal.com,West Covina Certified Farmers Market
+5d50758b58664b0c,West LA Farmers Marketmike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+mxlafbpy@farmersmarketsocal.com,West LA Farmers Market
+535ca515a173848c,Westchester Certified Farm...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+llmlezhw@farmersmarketsocal.com,Westchester Certified Farmers' Market
+7f7e940493e8bc6d,Westwood Village Farmers' ...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+oshniaaf@farmersmarketsocal.com,Westwood Village Farmers' Market
+d4a88fe5df6fa270,Whittier College Farmers M...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+kwmxarfk@farmersmarketsocal.com,Whittier College Farmers Market
+e9cc4ed9644fbb16,Wilmington Farmers Market...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+mwqfnkgn@farmersmarketsocal.com,Wilmington Farmers Market
+d058f2bb7a2ca221,Woodland Hills Farmers Mar...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+gaxgmqtm@farmersmarketsocal.com,Woodland Hills Farmers Market
+5bf4ca5a03db9c84,Wrigleys Farmers Market & ...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+szduwlfr@farmersmarketsocal.com,Wrigleys Farmers Market & Pop Ups
+155b4b5d2672a71c,Aliso Viejo Certified Farm...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+fhbrcyfe@farmersmarketsocal.com,Aliso Viejo Certified Farmers' Market
+085911d3e24dc373,Bodhi Buddharealm Society ...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+bhllwxca@farmersmarketsocal.com,Bodhi Buddharealm Society Farmers Market
+e8c32cbc06fa8be1,Brea Certified Farmers' Ma...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+jcfrrccl@farmersmarketsocal.com,Brea Certified Farmers' Market
+67d4c3f0e4f6f573,Buena Park Certified Farme...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+xxcqlsmj@farmersmarketsocal.com,Buena Park Certified Farmers' Market
+aa157dd3dd25f901,Corona Del Mar Certified F...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+mrdrrfkd@farmersmarketsocal.com,Corona Del Mar Certified Farmers' Market
+fc16b2567d753022,Costa Mesa Certified Farme...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+paenscel@farmersmarketsocal.com,Costa Mesa Certified Farmers' Market
+e1ac9d397906c8ae,Costa Mesa SoCo Certified ...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+hvvkcdww@farmersmarketsocal.com,Costa Mesa SoCo Certified Farmers' Market
+8e678f5bb3c006d0,Cypress Certified Farmers'...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+uqnifcgl@farmersmarketsocal.com,Cypress Certified Farmers' Market
+030b500262ff8f39,Downtown Anaheim Certified...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+fajupqjq@farmersmarketsocal.com,Downtown Anaheim Certified Farmers' Market
+dba4d09bd063b7c1,Farmakis Farms Certified F...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+txxjmoeg@farmersmarketsocal.com,Farmakis Farms Certified Farmers' Market
+ab776351be758889,Farmers Market on the Ranc...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+bbfqfinp@farmersmarketsocal.com,Farmers Market on the Ranch Certified Farmers' Market
+293513cb47cb90d3,Fullerton Certified Farmer...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+utgkdjxm@farmersmarketsocal.com,Fullerton Certified Farmers' Market
+4dce51ff853d6410,Fullerton Downtown Certifi...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+rtxugcvr@farmersmarketsocal.com,Fullerton Downtown Certified Farmers' Market
+b3e239a284b0f3d1,Huntington Beach Surf City...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+svhmpgdp@farmersmarketsocal.com,Huntington Beach Surf City Nights Downtown Street Fair Certified Farmers'
+ec0af4b281caa955,Irvine Certified Farmers' ...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+yhpfdkyq@farmersmarketsocal.com,Irvine Certified Farmers' Market @ Mariner's Church
+182ba88363d9c4fa,Irvine Regional Park Certi...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+qefohxkx@farmersmarketsocal.com,Irvine Regional Park Certified Farmers Market
+5273590ca9ab2b8e,Isoc Summer Farmer's Marke...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+cifcrnsu@farmersmarketsocal.com,Isoc Summer Farmer's Market
+b84aade428abf236,Kaiser Permanente Anaheim ...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+qsxwkngf@farmersmarketsocal.com,Kaiser Permanente Anaheim Certified Farmers' Market
+92c92ca1373c8f05,La Palma - Kaiser CFMmike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+evkwccwo@farmersmarketsocal.com,La Palma - Kaiser CFM
+12b14b8203734c52,Kaiser Permanente Irvine C...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+kougwaca@farmersmarketsocal.com,Kaiser Permanente Irvine Certified Farmers' Market
+cf7466391c53a42c,Ladera Ranch Certified Far...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+njfnpval@farmersmarketsocal.com,Ladera Ranch Certified Farmers' Market
+b8ced4102fbd2333,Laguna Beach Certified Far...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+chjatesu@farmersmarketsocal.com,Laguna Beach Certified Farmers' Market
+09cb8ecb374cc159,Laguna Hills Certified Far...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+dlxoutza@farmersmarketsocal.com,Laguna Hills Certified Farmers' Market
+c9829bed35ba7889,Laguna Niguel Certified Fa...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+qmqclxwi@farmersmarketsocal.com,Laguna Niguel Certified Farmers' Market
+0b9aecacd274f8cc,Lake Forest Certified Farm...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+neyktglf@farmersmarketsocal.com,Lake Forest Certified Farmers' Market
+8fc3f07e360b32c0,Local Harvest Garden Grove...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+bozhvmhk@farmersmarketsocal.com,Local Harvest Garden Grove Certified Farmers' Market
+af0063667cd6dff1,Mile Square Park Certified...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+vgsftcwa@farmersmarketsocal.com,Mile Square Park Certified Farmers Market
+8f7f0218e0073774,Mission Viejo Certified Fa...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+ftwuozfv@farmersmarketsocal.com,Mission Viejo Certified Farmers' Market
+bf06c68d2f14898f,Newport Beach Certified Fa...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+apoqxwcu@farmersmarketsocal.com,Newport Beach Certified Farmers' Market
+b923e7b6012801a2,OC Great Park Certified Fa...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+zrsljbce@farmersmarketsocal.com,OC Great Park Certified Farmers' Market
+944f3f4c6bf89d64,Orange Home Grown & Artisa...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+sytevlic@farmersmarketsocal.com,Orange Home Grown & Artisans Certified Farmers' Market
+423b0b033b6f763d,Paseo 17 Farmers Marketmike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+jzyiwuls@farmersmarketsocal.com,Paseo 17 Farmers Market
+651c53425d55d821,Placentia Certified Farmer...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+taegljbn@farmersmarketsocal.com,Placentia Certified Farmers' Market
+5ca69f767bf68d4a,Rossmoor Certified Farmers...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+hhmhblol@farmersmarketsocal.com,Rossmoor Certified Farmers' Market
+cdb0002685f97bd3,San Clemente Village Certi...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+krkxlnwj@farmersmarketsocal.com,San Clemente Village Certified Farmers' Market
+b091662a2c36cc5c,Seal Beach Village Certifi...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+pkvsjlgf@farmersmarketsocal.com,Seal Beach Village Certified Farmers' Market
+91de9e6f98c74e4f,The New Dana Point Certifi...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+uwvtbmqb@farmersmarketsocal.com,The New Dana Point Certified Farmers' Market
+f0e8e17e5581e4cd,Tustin Certified Farmers' ...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+lrknrgwy@farmersmarketsocal.com,Tustin Certified Farmers' Market
+773dc31c249249bd,Tustin District Certified ...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+megzdait@farmersmarketsocal.com,Tustin District Certified Farmers' Market
+75ce1bb3bef72610,Yorba Linda Certified Farm...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+stgwgrng@farmersmarketsocal.com,Yorba Linda Certified Farmers' Market
+1c252d78641e25bf,Canyon Lake Certified Farm...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+ecvabddf@farmersmarketsocal.com,Canyon Lake Certified Farmers Market
+875fc534ee883e6b,Anza Farmers' Marketmike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+rpktospf@farmersmarketsocal.com,Anza Farmers' Market
+8ec38b11b997bc34,Certified Farmer's Market ...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+twhddyfk@farmersmarketsocal.com,Certified Farmer's Market Palm Desert
+7110f7e8bb386235,Certified Farmer's Market ...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+dwhwniey@farmersmarketsocal.com,Certified Farmer's Market Palm Springs-Indoor
+10068b1a50fb69eb,CFM at the Promenade Mall...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+vyceepkv@farmersmarketsocal.com,CFM at the Promenade Mall
+c022a5cd2431d0ee,Corona Certified Farmers' ...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+zvyrinxf@farmersmarketsocal.com,Corona Certified Farmers' Market
+9f61c6f425fd48fe,County of Riverside CFMmike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+emxewbpt@farmersmarketsocal.com,County of Riverside CFM
+f3d47978550b866c,Downtown Farmer's Marketmike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+ymwqdmuv@farmersmarketsocal.com,Downtown Farmer's Market
+d981eca0e25528a7,Downtown Farmer's Market R...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+vaebabhv@farmersmarketsocal.com,Downtown Farmer's Market Riverside
+cc9e7e32e3f9abe6,"Galleria @ Tyler, Riversid...mike@farmersmarketsocal.co...",2025-05-2011:29am PDT,Farmers Market,approved,mike+ljydstax@farmersmarketsocal.com,"Galleria @ Tyler, Riverside Farmers' Market"
+d0054b83619570ab,Idyllwild Community Center...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+odybymsk@farmersmarketsocal.com,Idyllwild Community Center
+d676edb3ed3458d9,Heritage @ Moreno Valley C...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+zdkwpzpp@farmersmarketsocal.com,Heritage @ Moreno Valley College CFM
+45c7b5542f1a791f,Murrieta CFMmike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+qtgdlqim@farmersmarketsocal.com,Murrieta CFM
+cb803be42011d172,Old Town La Quinta Certifi...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+tziynmvx@farmersmarketsocal.com,Old Town La Quinta Certified Farmer's Market
+1624df44d6294118,Moreno Valley Certified Fa...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+dbtfmagy@farmersmarketsocal.com,Moreno Valley Certified Farmers Market
+032e3ffb734cb46c,Indian Well Certified Farm...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+twokgrib@farmersmarketsocal.com,Indian Well Certified Farmer's Market
+81e603979d1f84f0,Old Town Temecula CFMmike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+etforaaq@farmersmarketsocal.com,Old Town Temecula CFM
+8a02ccecdc76203a,Palm Springs Certified Far...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+yscqgxgz@farmersmarketsocal.com,Palm Springs Certified Farmers Market
+98081b518c96c4bf,R' Garden's Certified Farm...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+jwxstuyh@farmersmarketsocal.com,R' Garden's Certified Farmers Market
+91587f6dc4c4cca3,Palm Desert Certified Farm...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+hiqohcjz@farmersmarketsocal.com,Palm Desert Certified Farmer's Market (Wed.)
+9ae7e0da2dccaf5f,Rancho Mirage Certified Fa...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+jrdtrnwc@farmersmarketsocal.com,Rancho Mirage Certified Farmer's Market
+246389ba913f7ff6,Riverside Community Hospit...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+gxdrtwsn@farmersmarketsocal.com,Riverside Community Hospital Farmers Market
+d1dd0d660fccc0bb,San Jacinto CFMmike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+zaqagvqt@farmersmarketsocal.com,San Jacinto CFM
+857037e4fba938cc,29 Palms Certified Farmers...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+dwtutucy@farmersmarketsocal.com,29 Palms Certified Farmers Market @ JTRC
+f0f217073efefa75,Vail Certified Farmer's Ma...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+fdvcymts@farmersmarketsocal.com,Vail Certified Farmer's Market
+0eaaaeca8b3cd800,29 Palms Certified Farmers...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+gyrgnjhs@farmersmarketsocal.com,29 Palms Certified Farmers Market @ Freedom Plaza
+668f77ab6c46b9ee,Arrowhead Regional Medical...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+ghgijnwe@farmersmarketsocal.com,Arrowhead Regional Medical Center CFM
+93a7af3dfd21d281,Barstow Farmers Marketmike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+xxuytjhu@farmersmarketsocal.com,Barstow Farmers Market
+be1b0203a484b202,Barstow's High Desert Farm...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+tdgpicrq@farmersmarketsocal.com,Barstow's High Desert Farmersm Market
+8810187ed6c39328,Big Bear Farmers Marketmike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+ritbxxtq@farmersmarketsocal.com,Big Bear Farmers Market
+5a439e089b297f5d,Big Bear Lake Farmers Mark...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+cxrjuuhd@farmersmarketsocal.com,Big Bear Lake Farmers Market
+62b227681a5963ce,Countyline Farmers Market...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+sozttyjv@farmersmarketsocal.com,Countyline Farmers Market
+6cb7e133e072bd03,Farm Fresh Marketmike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+dqmtvkyu@farmersmarketsocal.com,Farm Fresh Market
+8c1e7721847a17be,Farmers Market @ The Grove...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+frguukew@farmersmarketsocal.com,Farmers Market @ The Grove School
+2061d5ecb00d2f14,Helendale Certified Farmer...mike@farmersmarketsocal.co...,2025-05-2011:29am PDT,Farmers Market,approved,mike+jibhffyv@farmersmarketsocal.com,Helendale Certified Farmers Market
+42c7105e82ade6bc,Heritage @ Chaffey College...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+iuchvigo@farmersmarketsocal.com,Heritage @ Chaffey College CFM
+e1f237f0db83df43,Heritage @ The Resort CFM...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+zejcncmf@farmersmarketsocal.com,Heritage @ The Resort CFM
+69af73c8c9397fb4,Heritage @ The Shoppes at ...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+byuizxam@farmersmarketsocal.com,Heritage @ The Shoppes at Chino Hills CFM
+79dfe9cf76fb58d9,Heritage Farmstand @IEHP C...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+exxmbukj@farmersmarketsocal.com,Heritage Farmstand @IEHP CFM
+febd8e02998524da,Heritage Harvest Certified...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+tewxnmxw@farmersmarketsocal.com,Heritage Harvest Certified Farmers Market @ Terra Vista
+4949ad36574ac89b,High Desert Farmers Market...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+mqegmlgt@farmersmarketsocal.com,High Desert Farmers Market
+9c5ca1a0fbc5f1b7,Joshua Tree Certified Farm...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+ourwwqad@farmersmarketsocal.com,Joshua Tree Certified Farmers Market
+ad5a0a3a064574ee,Oak Glen Farmers Marketmike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+bstpwnbh@farmersmarketsocal.com,Oak Glen Farmers Market
+d8f44f5b168bbddb,Phelan Certified Farmers M...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+otoviubi@farmersmarketsocal.com,Phelan Certified Farmers Market
+987ac41e884f0a15,Rancho Cucamonga Certified...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+edcdtiwu@farmersmarketsocal.com,Rancho Cucamonga Certified Farmers Market
+0bc10ebd647befc5,Redlands Community Farmers...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+yampwvqf@farmersmarketsocal.com,Redlands Community Farmers Market
+2d96e1012d35da02,Redlands Downtown's Mornin...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+nymmvyrn@farmersmarketsocal.com,Redlands Downtown's Morning Market
+73b6a7f2de86ceb9,Rialto Certified Farmers M...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+tyannltv@farmersmarketsocal.com,Rialto Certified Farmers Market
+5bf26364e53328ec,Running Springs Certified ...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+dphbnefk@farmersmarketsocal.com,Running Springs Certified Farmers Market & Artisan Faire
+bbb183955a666136,San Bernardino Certified F...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+socogzje@farmersmarketsocal.com,San Bernardino Certified Farmers Market
+dd4a25af2dacec79,South Fontana Farmers' Mar...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+hsruepzu@farmersmarketsocal.com,South Fontana Farmers' Market
+27f093883a1c41c2,South Fontana Farmers' Mar...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+dpihyxtm@farmersmarketsocal.com,South Fontana Farmers' Market
+dfa7f97c959c2d3f,The Gathering Farmers & Ar...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+zxmujhay@farmersmarketsocal.com,The Gathering Farmers & Artisan Market
+46e68ab74bf7ce82,Twin Peaks Farmers Market...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+dvdcyltw@farmersmarketsocal.com,Twin Peaks Farmers Market
+3b026b7dbf2ccb53,St. Bernardine Certified F...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+ptkmlofg@farmersmarketsocal.com,St. Bernardine Certified Farmers Market
+e26cbf388b42fc85,Upland Farmers Marketmike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+vdsmumbk@farmersmarketsocal.com,Upland Farmers Market
+e43ed5a25f55bb3b,Wrightwood Certified Farme...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+jwkclysm@farmersmarketsocal.com,Wrightwood Certified Farmers Market
+a82cb82a6dc7989d,Yucca Valley Certified Far...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+qunbjenf@farmersmarketsocal.com,Yucca Valley Certified Farmers Market
+6e64ffe5bd5c580c,ASCENDKemetCollective Cert...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+xsrhdqnq@farmersmarketsocal.com,ASCENDKemetCollective Certified Farmers' Market - City Heights
+11b0b73cb255f307,ASCENDKemetCollective Cert...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+nzvswhyn@farmersmarketsocal.com,ASCENDKemetCollective Certified Farmers' Market - Downtown
+4cbcda6ac234370f,Bernardo Winery Certified ...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+tdjfvnjb@farmersmarketsocal.com,Bernardo Winery Certified Farmers' Market
+3b91caf5980a7cff,Borrego Springs Certified ...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+ythytrst@farmersmarketsocal.com,Borrego Springs Certified Farmers' Market
+d9262f559433d8d6,Cardiff Certified Farmers'...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+nerutnrm@farmersmarketsocal.com,Cardiff Certified Farmers' Market
+60d4230ef930eea2,Carlsbad State Street Cert...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+ijwqlaol@farmersmarketsocal.com,Carlsbad State Street Certified Farmers' Market
+ceeb9189b042dda0,Chula Vista Certified Farm...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+cvyelndo@farmersmarketsocal.com,Chula Vista Certified Farmers' Market
+3493f955f4707407,Coronado Certified Farmers...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+dljqtbod@farmersmarketsocal.com,Coronado Certified Farmers' Market
+e7cda52fe1f00b7c,Del Mar Certified Farmers'...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+kstjixnl@farmersmarketsocal.com,Del Mar Certified Farmers' Market
+7d0317096a78418a,Escondido Certified Farmer...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+aradhrzk@farmersmarketsocal.com,Escondido Certified Farmers' Market
+454c38baa0b2d3c5,Fallbrook S. Main Ave. Cer...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+eixllthd@farmersmarketsocal.com,Fallbrook S. Main Ave. Certified Farmers' Market
+11971a294e9fc9c0,Hidden Certified Farmers' ...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+nefreulw@farmersmarketsocal.com,Hidden Certified Farmers' Market
+24bbf42b7c286a15,Hillcrest Certified Farmer...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+plyjjjoz@farmersmarketsocal.com,Hillcrest Certified Farmers' Market
+62e96e99dd114726,La Jolla Certified Farmers...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+flhamzqc@farmersmarketsocal.com,La Jolla Certified Farmers' Market
+776cfac0f7838c13,La Mesa Village Certified ...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+zdnibdef@farmersmarketsocal.com,La Mesa Village Certified Farmers' Market
+b50a9ab340ba725e,Leucadia Certified Farmers...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+eberdbqd@farmersmarketsocal.com,Leucadia Certified Farmers' Market
+22173e2a9b06c877,Linda Vista Certified Farm...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+lcxrsyby@farmersmarketsocal.com,Linda Vista Certified Farmers' Market
+7686585f073c377f,Little Italy Mercato Certi...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+lomlacak@farmersmarketsocal.com,Little Italy Mercato Certified Farmers' Market
+823d041f751d0408,Mira Mesa Certified Farmer...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+xhirqaxw@farmersmarketsocal.com,Mira Mesa Certified Farmers' Market
+a1998ec2cbb485d0,Mission Valley Certified F...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+surzvjsb@farmersmarketsocal.com,Mission Valley Certified Farmers' Market
+8ca1876b3131fb7d,North Park Thursday Certif...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+pqtjfred@farmersmarketsocal.com,North Park Thursday Certified Farmers' Market
+5f3200ec4c8ddc12,Ocean Beach Certified Farm...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+scpcmaqi@farmersmarketsocal.com,Ocean Beach Certified Farmers' Market
+3eaea4049489eec0,Oceanside Certified Farmer...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+bemwswwq@farmersmarketsocal.com,Oceanside Certified Farmers' Market
+ace7a3322a249625,Otay Ranch Certified Farme...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+sfocyzgq@farmersmarketsocal.com,Otay Ranch Certified Farmers' Market
+c2aafd08490b6a8e,Pacific Beach Tuesday Cert...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+wluwkdgp@farmersmarketsocal.com,Pacific Beach Tuesday Certified Farmers' Market
+a920b5541b119a2c,Point Loma Certified Farme...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+tooaukza@farmersmarketsocal.com,Point Loma Certified Farmers' Market
+7af414843d322fae,Poway Certified Farmers' M...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+wwrwawar@farmersmarketsocal.com,Poway Certified Farmers' Market
+eb262c2c2e94b10d,Rancho Penasquito Certifie...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+wzkhrbrs@farmersmarketsocal.com,Rancho Penasquito Certified Farmers' Market
+c16190c562b7718a,Ramona Certified Farmers' ...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+wavtxsvf@farmersmarketsocal.com,Ramona Certified Farmers' Market and Craft Market
+3e7b8735e5cb99e2,Rancho Santa Fe Certified ...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+rmzhhzda@farmersmarketsocal.com,Rancho Santa Fe Certified Farmers' Market
+fd7507263addbea2,San Marcos Certified Farme...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+zgkrpcsm@farmersmarketsocal.com,San Marcos Certified Farmers' Market
+e1a967be634df875,Santa Ysabel Certified Far...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+gxocsdon@farmersmarketsocal.com,Santa Ysabel Certified Farmers' Market
+234b5307d88dbcf9,Santee Certified Farmers' ...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+kvemqlhq@farmersmarketsocal.com,Santee Certified Farmers' Market
+83d3a4acf356ec0c,Scripps Ranch Certified Fa...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+jounhvrs@farmersmarketsocal.com,Scripps Ranch Certified Farmers' Market
+43178dabd0f1f5a8,Solana Beach Certified Far...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+nukrbpwf@farmersmarketsocal.com,Solana Beach Certified Farmers' Market
+dddba5d2fcb72389,Vista Certified Farmers' M...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+uftriswi@farmersmarketsocal.com,Vista Certified Farmers' Market
+91891fd9fff9deef,Welk Resorts Certified Far...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+vqnwvact@farmersmarketsocal.com,Welk Resorts Certified Farmers' Market
+b1421c85d90ce1c6,Adventist Health Simi Vall...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+wsloxfwo@farmersmarketsocal.com,Adventist Health Simi Valley Farmers Market
+1bb1ca8c108426ca,Camarillo Hospice Certifie...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+kyqfffez@farmersmarketsocal.com,Camarillo Hospice Certified Farmers Market
+d8adb009b9fe4015,Channel Islands Farmers Ma...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+fdakktzq@farmersmarketsocal.com,Channel Islands Farmers Market
+e6be614509840e89,Downtown Oxnard Farmers Ma...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+sqycmyre@farmersmarketsocal.com,Downtown Oxnard Farmers Market
+579c5d0bcbe20001,Downtown Ventura Certified...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+qkutrtxf@farmersmarketsocal.com,Downtown Ventura Certified Farmers' Market
+74cf7b3a9055e105,Midtown Ventura Certified ...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+bqvdsxnn@farmersmarketsocal.com,Midtown Ventura Certified Farmers' Market
+51825b8eb6bfbb84,Moorpark Certified Farmers...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+gxapugfb@farmersmarketsocal.com,Moorpark Certified Farmers' Market
+a1527c06df398f02,Ojai Certified Farmers Mar...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+scgyksfs@farmersmarketsocal.com,Ojai Certified Farmers Market
+3a77529a0feda360,Ojai Community Farmers' Ma...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+xwndfhmx@farmersmarketsocal.com,Ojai Community Farmers' Market
+756d4388947b83df,Santa Paula Certified Farm...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+hbhodtux@farmersmarketsocal.com,Santa Paula Certified Farmers Market
+6a174331d1314edd,Saticoy Farmers Marketmike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+qxbjtoph@farmersmarketsocal.com,Saticoy Farmers Market
+be311cb99a1d9911,Simi Valley Certified Farm...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+tbwtfofl@farmersmarketsocal.com,Simi Valley Certified Farmers Market
+d9dcc56396699c46,Simi Valley Town Center Ma...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+pxzhmxtr@farmersmarketsocal.com,Simi Valley Town Center Mall Certified Night Farmers' Market
+921ae29bfa486db3,Thousand Oaks Certified Fa...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+utyqcjtu@farmersmarketsocal.com,Thousand Oaks Certified Farmers' Market
+9f048541ddae73ab,Westlake Village Certified...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+ixoevvqb@farmersmarketsocal.com,Westlake Village Certified Farmers Market
+01239351029bf65c,Mellano Farm Stand Farmer'...mike@farmersmarketsocal.co...,2025-05-2011:30am PDT,Farmers Market,approved,mike+iwkfhioc@farmersmarketsocal.com,Mellano Farm Stand Farmer's Market
+9455ec785a5c9491,Adams-Vermont Farmers Mark...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+imbtmtol@farmersmarketsocal.com,Adams-Vermont Farmers Market
+15130e53ad6a8e1c,Adventist Health Glendale ...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+sjtkdcsb@farmersmarketsocal.com,Adventist Health Glendale Farmers Market
+b6a4a8c04f3c3958,Adventist Health White Mem...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+wvwlpocp@farmersmarketsocal.com,Adventist Health White Memorial FM
+d9ae9e5c625756dc,African Village Community ...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+jcqsuwjt@farmersmarketsocal.com,African Village Community Marketplace
+1887c091b9b685ca,Agoura Hills/The Whizins F...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+tqlfdoeu@farmersmarketsocal.com,Agoura Hills/The Whizins Farmers Market
+35e37f0f09346704,Alhambra Certified Farmers...mike@farmersmarketsocal.co...,2025-05-2011:27am PDT,Farmers Market,approved,mike+uhtrraga@farmersmarketsocal.com,Alhambra Certified Farmers Market
+test-admin-imrvqbiv5a,Mike Rheemike@farmersmarketsocal.co...,2025-02-20 6:01am PST,Administrators,approved,mike@farmersmarketsocal.com,Mike Rhee
+paris-mielke-josmcgnuza,Paris Mielkeparis@tangram.co,2025-04-2910:23am PDT,Administrators,approved,paris+socaladmin@tangram.co,Paris Mielke

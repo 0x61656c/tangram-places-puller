@@ -91,10 +91,12 @@ Parameters:
 
 Example:
 ```bash
-python merger.py customers.csv orders.csv customer_orders.csv --merge-type left
+python merger.py input.csv enriched_data.csv final_output.csv --merge-type left
 ```
 
-This will merge the two CSV files based on an 'id' column using the specified merge type.
+This will merge the two CSV files based on the 'Business Name' column using the specified merge type.
+
+**Note:** Both CSV files must contain a 'Business Name' column for the merge to work. This is designed to work with the output from the Places Retriever script and other business data files that follow the same format.
 
 ## Output File (`output.csv`)
 
